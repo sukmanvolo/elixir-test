@@ -57,7 +57,7 @@ defmodule Sntx.MixProject do
       {:absinthe, "~> 1.7"},
       {:absinthe_phoenix, "~> 2.0"},
       {:absinthe_plug, "~> 1.5"},
-      {:dataloader, "~> 1.0"},
+      {:dataloader, "~> 2.0"},
       {:absinthe_error_payload, "~> 1.1"},
 
       # Dashboard
