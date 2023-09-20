@@ -51,7 +51,7 @@ defmodule Sntx.MixProject do
       # Auth
       {:argon2_elixir, "~> 3.2.1"},
       {:guardian, "~> 2.3"},
-      {:guardian_db, "~> 2.1"},
+      {:guardian_db, "~> 3.0"},
 
       # Graph
       {:absinthe, "~> 1.7"},
