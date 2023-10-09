@@ -49,7 +49,7 @@ defmodule Sntx.MixProject do
       {:postgrex, ">= 0.0.0"},
 
       # Auth
-      {:argon2_elixir, "~> 3.2.1"},
+      {:argon2_elixir, "~> 4.0.0"},
       {:guardian, "~> 2.3"},
       {:guardian_db, "~> 3.0"},
 
