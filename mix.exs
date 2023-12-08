@@ -78,7 +78,7 @@ defmodule Sntx.MixProject do
       {:paginator, "~> 1.2"},
       {:recase, "~> 0.7"},
       {:secure_random, "~> 0.5"},
-      {:sentry, "~> 9.0"},
+      {:sentry, "~> 10.0"},
       {:timex, "~> 3.7"},
       {:waffle, "~> 1.1"},
       {:waffle_ecto, ">= 0.0.0"},
