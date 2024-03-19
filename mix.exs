@@ -62,7 +62,7 @@ defmodule Sntx.MixProject do
 
       # Dashboard
       {:phoenix_live_dashboard, "~> 0.7"},
-      {:telemetry_metrics, "~> 0.6"},
+      {:telemetry_metrics, "~> 1.0"},
       {:telemetry_poller, "~> 1.0"},
       {:telemetry, "~> 1.2"},
 
